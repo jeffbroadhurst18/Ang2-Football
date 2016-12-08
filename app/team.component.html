@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>K.O.</th>
+            <th>Competition</th>
+            <th></th>
+            <th>Attendance</th>
+        </tr>
+    </thead>
+    <tr *ngFor="let match of matches">
+        <td>{{match.date | reduceDate}}</td>
+        <td>{{match.time | reduceTime}}</td>
+        <td>{{match.competition | reduceCompetition}}</td>
+        <td><a href="/match/{{match.id}}">{{match.score}}</a></td>
+        <td>{{match.attendance}}</td>
+    </tr>
+</table>

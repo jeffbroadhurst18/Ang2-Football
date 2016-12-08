@@ -16,7 +16,7 @@
   </tr>
   <tr *ngFor="let team of teams">
     <td>{{team.position}}</td>
-    <td>{{team.name}}</td>
+    <td><a href="/team/{{team.number}}">{{team.name}}</a></td>
     <td>{{team.played}}</td>
     <td>{{team.won}}</td>
     <td>{{team.drawn}}</td>
@@ -25,5 +25,6 @@
     <td>{{team.against}}</td>
     <td>{{team.goalDifference}}</td>
     <td>{{team.points}}</td>
+    
   </tr>
 </table>

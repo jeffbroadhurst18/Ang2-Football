@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FootballService } from './football.service';
+import { ActivatedRoute, Params} from '@angular/router';
 import { team } from './league';
 import { League } from './league';
 import { leagueTable } from './league';
@@ -15,7 +16,8 @@ import { Observable } from 'rxjs/Rx';
 
 export class FootballComponent implements OnInit {
     public comp:any;
-    public teams;
+    public teams:any;
+    public teamList:any;
   
     constructor(private footballService: FootballService) {
 
@@ -24,19 +26,43 @@ export class FootballComponent implements OnInit {
 
     ngOnInit(): void {
         this.getTeams();
+        this.getLeague();
+    }
+
+    getLeague() {
+        this.footballService.getLeague().subscribe(
+             data => { this.displayLeague(data)},
+            err => console.error(err),
+            () => console.log('done loading league')
+        )
+    };
+
+    displayLeague(data: any) {
+        this.comp = data.leagueTable.competition;
+        this.teams = data.leagueTable.team;
+
+        for (var i=0; i < this.teamList.length; i++)
+        {
+            for (var j = 0; j < this.teams.length; j++)
+            {
+                if (this.teams[j].name == this.teamList[i].name)
+                {
+                    this.teams[j].number = this.teamList[i].id;
+                    break;
+                }
+            }
+        }
     }
 
     getTeams() {
         this.footballService.getTeams().subscribe(
-             data => { this.display(data)},
+            data => { this.processTeamList(data)},
             err => console.error(err),
-      // the third argument is a function which runs on completion
-      () => console.log('done loading league')
+            () => console.log('done loading team list')
         )
     };
 
-    display(data: any) {
-        this.comp = data.leagueTable.competition;
-        this.teams = data.leagueTable.team;
+    processTeamList(data:any) {
+        this.teamList = data.teams.team;
     }
 }

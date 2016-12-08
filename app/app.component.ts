@@ -4,7 +4,7 @@ import { Component,OnInit } from '@angular/core';
   selector: 'my-app',
   template:  `
     <h1>{{title}}</h1>
-    <my-football></my-football>
+    <router-outlet></router-outlet>
     `,
   styleUrls: ['app/app.component.css'],
 })
