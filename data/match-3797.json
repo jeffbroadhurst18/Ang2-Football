@@ -1,0 +1,207 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 29th October 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "1004",
+				"name": "Chester",
+				"halfTimeScore": "2",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Ryan Astles (33')"
+					},
+					{
+						"goal": "Tom Shaw (pen 44')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alex Lynch"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Blaine Hudson"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Sam Hughes"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Tom Shaw"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Ryan Lloyd"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon",
+						"substitution": {
+							"replacedBy": "Kane Richards",
+							"minute": "60"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell"
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi",
+						"substitution": {
+							"replacedBy": "Oluwaseun Akintunde",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Evan Horwood"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Wade Joyce"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Matthew Waters"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Oluwaseun Akintunde"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "79",
+				"name": "Lincoln City",
+				"halfTimeScore": "2",
+				"score": "5",
+				"goals": [
+					{
+						"goal": "Matt Rhead (42')"
+					},
+					{
+						"goal": "Sean Raggett (45')"
+					},
+					{
+						"goal": "Matt Rhead (48')"
+					},
+					{
+						"goal": "Jack Muldoon (81')"
+					},
+					{
+						"goal": "Harry Anderson (83')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Paul Farman"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Bradley Wood"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Sam Habergham"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Luke Andersen",
+						"substitution": {
+							"replacedBy": "Terry Hawkridge",
+							"minute": "85"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Alan Power",
+						"substitution": {
+							"replacedBy": "Elliott Whitehouse",
+							"minute": "76"
+						},
+						"caution": {
+							"minute": "43"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Luke Waterfall"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Matt Rhead"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Sean Raggett"
+					},
+					{
+						"shirtNo": "28",
+						"name": "Nathan Arnold"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Alex Woodyard"
+					},
+					{
+						"shirtNo": "31",
+						"name": "Theo Robinson",
+						"substitution": {
+							"replacedBy": "Jack Muldoon",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Elliott Whitehouse"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Muldoon"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Terry Hawkridge"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Taylor Miles"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Jamie McCombe"
+					}
+				]
+			}
+		],
+		"attendance": "2586",
+		"venue": "Lookers Vauxhall Stadium"
+	}
+}
+

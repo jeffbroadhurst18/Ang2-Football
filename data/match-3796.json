@@ -1,0 +1,184 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 29th October 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "226",
+				"name": "Braintree Town",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "22",
+						"name": "Sam Beasant"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Jerome Okimo"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Ian Gayle",
+						"substitution": {
+							"replacedBy": "Jack Midson",
+							"minute": "87"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard",
+						"substitution": {
+							"replacedBy": "Claudio Dias",
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "George Elokobi"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Jake Goodman"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Chez Isaac"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Monty Patterson",
+						"substitution": {
+							"replacedBy": "Sam Matthews",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Oliver Muldoon"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Simeon Akinola"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Michael Cheek"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Harry Lee"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jon Ashton"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Midson"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Sam Matthews"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Claudio Dias"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "569",
+				"name": "Solihull Moors",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Harry White (pen 86')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Daniel Lewis"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shepherd Murombedzi"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Connor Franklin"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Andy Brown"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Akwasi Asante",
+						"substitution": {
+							"replacedBy": "Harry White",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Daly"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Jack Byrne"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jean-Yves Koue Niate"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Fagbola"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Jamie Osborne"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Omari Sterling-James",
+						"substitution": {
+							"replacedBy": "Eddie Jones",
+							"minute": "65"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Darren Acton"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jordan Gough"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Eddie Jones"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Harry White"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Joel Dielna"
+					}
+				]
+			}
+		],
+		"attendance": "625",
+		"venue": "Amlin Stadium"
+	}
+}
+

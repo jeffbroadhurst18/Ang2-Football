@@ -1,0 +1,177 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 29th November 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "131",
+				"name": "Southport",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "27",
+						"name": "Magnus Norman"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Ryan Higgins"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Ross White"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Andrai Jones"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jamie Allen"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Nolan"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Josh Thompson"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Liam Hynes",
+						"substitution": {
+							"replacedBy": "Ruben Jerome",
+							"minute": "85"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Jordan Lussey",
+						"substitution": {
+							"replacedBy": "James Caton",
+							"minute": "75"
+						}
+					},
+					{
+						"shirtNo": "20",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Declan Weeks"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Mason Springthorpe"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ruben Jerome"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Ashley Grimes"
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Gray"
+					},
+					{
+						"shirtNo": "16",
+						"name": "James Caton"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "569",
+				"name": "Solihull Moors",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Daniel Lewis"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Connor Franklin"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Daly"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Eddie Jones"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Akwasi Asante"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jordan Gough"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Jack Byrne"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Curtis Obeng",
+						"caution": {
+							"minute": "18"
+						}
+					},
+					{
+						"shirtNo": "20",
+						"name": "Jamie Osborne"
+					},
+					{
+						"shirtNo": "25",
+						"name": "George Carline",
+						"caution": {
+							"minute": "43"
+						}
+					},
+					{
+						"shirtNo": "26",
+						"name": "Joel Dielna",
+						"substitution": {
+							"replacedBy": "Omari Sterling-James",
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Darren Acton"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Darryl Knights"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Fagbola"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Harry White"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Omari Sterling-James"
+					}
+				]
+			}
+		],
+		"attendance": "703",
+		"venue": "Merseyrail Community Stadium"
+	}
+}
+

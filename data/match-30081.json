@@ -1,0 +1,26 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 5th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "319",
+				"name": "North Ferriby United",
+				"halfTimeScore": "0",
+				"score": "0"
+			},
+			{
+				"side": "away",
+				"no": "68",
+				"name": "Wrexham",
+				"halfTimeScore": "0",
+				"score": "0"
+			}
+		],
+		"attendance": "528"
+	}
+}
+

@@ -1,0 +1,200 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 26th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "251",
+				"name": "Bromley",
+				"halfTimeScore": "2",
+				"score": "3",
+				"goals": [
+					{
+						"goal": "Jack Holland (5')"
+					},
+					{
+						"goal": "George Porter (25')"
+					},
+					{
+						"goal": "Adam Cunnington (79')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alan Julian",
+						"caution": {
+							"minute": "38"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Daniel Johnson"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Rob Swaine",
+						"substitution": {
+							"replacedBy": "Ben Chorley",
+							"minute": "61"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Lee Minshull"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Joe Anderson"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Holland"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Dave Martin",
+						"caution": {
+							"minute": "41"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Connor Dymond"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Blair Turgott"
+					},
+					{
+						"shirtNo": "9",
+						"name": "George Porter",
+						"substitution": {
+							"replacedBy": "Louis Dennis",
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tobi Sho-Silva",
+						"substitution": {
+							"replacedBy": "Adam Cunnington",
+							"minute": "70"
+						}
+					},
+					{
+						"shirtNo": "2",
+						"name": "Jordan Wynter"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Ben Chorley"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Adam Cunnington"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Louis Dennis"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jordan Higgs"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Luke Woodland"
+					},
+					{
+						"shirtNo": "35",
+						"name": "Danny Holmes"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Sean Newton"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Jake Charles"
+					},
+					{
+						"shirtNo": "31",
+						"name": "Charlie Cooper",
+						"substitution": {
+							"replacedBy": "Scott Fenwick",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski",
+						"substitution": {
+							"replacedBy": "Callum Rzonca",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "32",
+						"name": "Robbie McDaid",
+						"substitution": {
+							"replacedBy": "Alex Bruton",
+							"minute": "68"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Callum Rzonca"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Alex Bruton"
+					}
+				]
+			}
+		],
+		"attendance": "1203",
+		"venue": "Hayes Lane"
+	}
+}
+

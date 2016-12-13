@@ -1,0 +1,197 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 25th October 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "68",
+				"name": "Wrexham",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Curtis Tilt (25')"
+					},
+					{
+						"goal": "John Rooney (78')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Shwan Jalal"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Kai Edwards"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Hamza Bencherif"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Leo Smith",
+						"substitution": {
+							"replacedBy": "Nortei Nortey",
+							"minute": "83"
+						}
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jordan Evans"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Curtis Tilt"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Mark Carrington"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Gerry McDonagh"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Shaun Harrad"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Callum Powell",
+						"caution": {
+							"minute": "58"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "Chris Dunn"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Martin Riley"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Khaellem Bailey-Nichols"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Nortei Nortey"
+					},
+					{
+						"shirtNo": "28",
+						"name": "George Harry"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "118",
+				"name": "Barrow",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Byron Harrison (9')"
+					},
+					{
+						"goal": "Ryan Yates (88')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Joel Dixon"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Beeley",
+						"caution": {
+							"minute": "21"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Nick Anderton"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Paul Turnbull",
+						"substitution": {
+							"replacedBy": "Alex-Ray Harvey",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Moussa Diarra"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Danny Livesey"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Liam Hughes",
+						"substitution": {
+							"replacedBy": "Akil Wright",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "22",
+						"name": "Ryan Yates"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Bennett",
+						"substitution": {
+							"replacedBy": "Ross Hannah",
+							"minute": "74"
+						}
+					},
+					{
+						"shirtNo": "20",
+						"name": "Byron Harrison"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Williams"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Andy Haworth"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Alex-Ray Harvey"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Ross Hannah"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Lindon Meikle"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Akil Wright"
+					}
+				]
+			}
+		],
+		"attendance": "3616",
+		"venue": "Racecourse Ground"
+	}
+}
+

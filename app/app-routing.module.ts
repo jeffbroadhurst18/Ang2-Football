@@ -3,6 +3,7 @@ import { RouterModule,Routes } from '@angular/router';
 
 import { FootballComponent } from './football.component';
 import { TeamComponent } from './team.component';
+import { MatchComponent} from './match.component'; 
 
 const routes: Routes = [
       {
@@ -14,10 +15,14 @@ const routes: Routes = [
         component: TeamComponent
       },
       {
-      path: '',
-      redirectTo: '',
-      pathMatch: 'full'
-      }
+        path:'match/:id',
+        component: MatchComponent
+      },
+      // {
+      // path: '',
+      // redirectTo: '',
+      // pathMatch: 'full'
+      // }
 ];
 
 @NgModule({

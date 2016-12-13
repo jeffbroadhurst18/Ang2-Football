@@ -1,0 +1,191 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 22nd November 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "1004",
+				"name": "Chester",
+				"halfTimeScore": "2",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Kane Richards (12')"
+					},
+					{
+						"goal": "James Alabi (31')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alex Lynch"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Sam Hughes"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Blaine Hudson"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Tom Shaw"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell",
+						"substitution": {
+							"replacedBy": "Wade Joyce",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "21",
+						"name": "Ryan Lloyd"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon",
+						"substitution": {
+							"replacedBy": "Jordan Chapell",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Wade Joyce"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Kieran Evans"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Matthew Waters"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Will Marsh"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "131",
+				"name": "Southport",
+				"halfTimeScore": "0",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Andrai Jones (60')"
+					},
+					{
+						"goal": "Jamie Allen (79')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "27",
+						"name": "Magnus Norman"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Ryan Higgins"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Nolan"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben McKenna"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Neil Ashton"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Josh Thompson"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Declan Weeks"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Ashley Grimes"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Andrai Jones",
+						"substitution": {
+							"replacedBy": "James Caton",
+							"minute": "82"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jamie Allen",
+						"substitution": {
+							"replacedBy": "Ruben Jerome",
+							"minute": "79"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ruben Jerome"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ruben Jerome"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Liam Hynes"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "16",
+						"name": "James Caton"
+					},
+					{
+						"shirtNo": "28",
+						"name": "Nathan Ferguson"
+					}
+				]
+			}
+		],
+		"attendance": "1752",
+		"venue": "Lookers Vauxhall Stadium"
+	}
+}
+

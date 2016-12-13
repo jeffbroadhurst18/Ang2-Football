@@ -1,0 +1,201 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 19th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "1004",
+				"name": "Chester",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Tom Shaw (pen 69')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alex Lynch"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Blaine Hudson"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Ryan Lloyd"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Sam Hughes"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon",
+						"substitution": {
+							"replacedBy": "Wade Joyce",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Tom Shaw"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell",
+						"substitution": {
+							"replacedBy": "Jordan Chapell",
+							"minute": "63"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards",
+						"caution": {
+							"minute": "73"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Evan Horwood"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Wade Joyce"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Matthew Waters"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Will Marsh"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "251",
+				"name": "Bromley",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Blair Turgott (15')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alan Julian"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Joe Anderson"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Daniel Johnson"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Lee Minshull",
+						"substitution": {
+							"replacedBy": "Jordan Higgs",
+							"minute": "77"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Holland"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Rob Swaine",
+						"caution": {
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Dave Martin"
+					},
+					{
+						"shirtNo": "9",
+						"name": "George Porter",
+						"substitution": {
+							"replacedBy": "Michael Ngoo",
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Connor Dymond"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Blair Turgott"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tobi Sho-Silva",
+						"substitution": {
+							"replacedBy": "Reece Prestedge",
+							"minute": "83"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Ben Chorley"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Adam Cunnington"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jordan Higgs"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Reece Prestedge",
+						"caution": {
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "18",
+						"name": "Michael Ngoo",
+						"caution": {
+							"minute": "83"
+						}
+					}
+				]
+			}
+		],
+		"attendance": "1827",
+		"venue": "Lookers Vauxhall Stadium"
+	}
+}
+

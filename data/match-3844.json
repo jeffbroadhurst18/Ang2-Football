@@ -1,0 +1,191 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 26th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "293",
+				"name": "Guiseley",
+				"halfTimeScore": "0",
+				"score": "3",
+				"goals": [
+					{
+						"goal": "Daniel Atkinson (47')"
+					},
+					{
+						"goal": "Will Hatfield (50')"
+					},
+					{
+						"goal": "Jake Cassidy (80')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "26",
+						"name": "Jonathan Maxted"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Rob Atkinson"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny East"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Will Hatfield",
+						"substitution": {
+							"replacedBy": "Joel Logan",
+							"minute": "90"
+						}
+					},
+					{
+						"shirtNo": "2",
+						"name": "Connor Brown"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Ashley Palmer"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Danny Lowe"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Alex Purver"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Simon Walton"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Jordan Preston"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Jake Cassidy",
+						"substitution": {
+							"replacedBy": "Michael Rankine",
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Daniel Atkinson"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Adam Boyes"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Michael Rankine"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Marcus Williams"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joel Logan"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "187",
+				"name": "Boreham Wood",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Kenny Davis (69')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Grant Smith"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Joe Devera"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Femi Ilesanmi"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Kenny Davis"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Ben Nunn"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Matthew Paine"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Mark Ricketts",
+						"substitution": {
+							"replacedBy": "Conor Clifford",
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Anthony Jeffrey"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Angelo Balanta"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Jamie Lucas"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Danny Uchechi",
+						"substitution": {
+							"replacedBy": "Alfie Boal",
+							"minute": "56"
+						}
+					},
+					{
+						"shirtNo": "21",
+						"name": "Alfie Boal"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Danny Woodards"
+					},
+					{
+						"shirtNo": "6",
+						"name": "David Stephens"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Conor Clifford"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Rhys Murrell-Williamson"
+					}
+				]
+			}
+		],
+		"attendance": "749",
+		"venue": "Nethermoor Park"
+	}
+}
+

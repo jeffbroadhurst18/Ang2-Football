@@ -1,0 +1,195 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 6th December 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "68",
+				"name": "Wrexham",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "26",
+						"name": "Luke Coddington"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jordan Evans",
+						"substitution": {
+							"replacedBy": "Anthony Barry",
+							"minute": "67"
+						},
+						"caution": {
+							"minute": "59"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Curtis Tilt",
+						"caution": {
+							"minute": "90"
+						}
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jordan Evans"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Rob Evans"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Rutherford"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Mark Carrington",
+						"substitution": {
+							"replacedBy": "Jordan White",
+							"minute": "70"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Hamza Bencherif"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Gerry McDonagh"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Shaun Harrad",
+						"substitution": {
+							"replacedBy": "Rekeil Pyke",
+							"minute": "45"
+						}
+					},
+					{
+						"shirtNo": "1",
+						"name": "Shwan Jalal"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Anthony Barry"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Jordan White"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Rekeil Pyke"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Rekeil Pyke"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "80",
+				"name": "Macclesfield Town",
+				"halfTimeScore": "0",
+				"score": "3",
+				"goals": [
+					{
+						"goal": "Danny Rowe (52')"
+					},
+					{
+						"goal": "Mitch Hancox (65')"
+					},
+					{
+						"goal": "Danny Whitaker (89')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Craig Ross"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Mitch Hancox"
+					},
+					{
+						"shirtNo": "6",
+						"name": "John McCombe"
+					},
+					{
+						"shirtNo": "5",
+						"name": "George Pilkington",
+						"substitution": {
+							"replacedBy": "Jack Sampson",
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "2",
+						"name": "Andy Halls"
+					},
+					{
+						"shirtNo": "3",
+						"name": "David Fitzpatrick"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny Whitaker"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Kingsley James"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Rowe"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Mackreth"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Chris Holroyd",
+						"substitution": {
+							"replacedBy": "Richard Brodie",
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "Ryan Boot"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Neill Byrne"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Jack Sampson"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Richard Brodie"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Richard Brodie"
+					}
+				]
+			}
+		],
+		"venue": "Racecourse Ground"
+	}
+}
+

@@ -1,0 +1,158 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 12th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Sam Ling"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Corey Whitely"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Luke Guttridge"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Benson"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tyrique Hyde"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Heard"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Shomari Barnwell"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "292",
+				"name": "Gateshead",
+				"halfTimeScore": "1",
+				"score": "5",
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Dan Hanford"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Wesley Atkinson"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Russell Penn"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Patrick McLaughlin"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Danny Johnson"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Sam Jones"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Mitch Brundle"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Manny Smith"
+					},
+					{
+						"shirtNo": "2",
+						"name": "James Bolton"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Liam Hogan"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jamal Fyfield"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Sam Johnson"
+					},
+					{
+						"shirtNo": "3",
+						"name": "George Smith"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Wesley York"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Reece Styche"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Luke Hannant"
+					}
+				]
+			}
+		],
+		"attendance": "1354"
+	}
+}
+

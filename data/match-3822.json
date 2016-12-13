@@ -1,0 +1,194 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 19th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "229",
+				"name": "Dover Athletic",
+				"halfTimeScore": "0",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Ricky Miller (46')"
+					},
+					{
+						"goal": "Moses Ademola (49')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "18",
+						"name": "Steve Arnold"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Sam Magri",
+						"substitution": {
+							"replacedBy": "Aswad Thomas",
+							"minute": "82"
+						}
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jamie Grimes"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Sammy Moore"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Tyrone Sterling"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Richard Orlu"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Jim Stevenson"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Jack Parkinson"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Mitch Pinnock"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Moses Ademola",
+						"caution": {
+							"minute": "38"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Ricky Miller",
+						"caution": {
+							"minute": "22"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Aswad Thomas"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Chris Kinnear"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Tyrone Marsh"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Joe Healy"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Ross Lafayette"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "293",
+				"name": "Guiseley",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "26",
+						"name": "Jonathan Maxted"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Connor Brown",
+						"caution": {
+							"minute": "40"
+						}
+					},
+					{
+						"shirtNo": "25",
+						"name": "Rob Atkinson"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Danny Lowe"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Ashley Palmer",
+						"caution": {
+							"minute": "43"
+						}
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny East",
+						"caution": {
+							"minute": "16"
+						}
+					},
+					{
+						"shirtNo": "22",
+						"name": "Alex Purver"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Will Hatfield"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Adam Boyes",
+						"substitution": {
+							"replacedBy": "Michael Rankine",
+							"minute": "68"
+						}
+					},
+					{
+						"shirtNo": "19",
+						"name": "Jordan Preston",
+						"substitution": {
+							"replacedBy": "Joel Logan",
+							"minute": "56"
+						}
+					},
+					{
+						"shirtNo": "29",
+						"name": "Jake Cassidy"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Daniel Atkinson"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Michael Rankine"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Marcus Williams"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Simon Walton"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joel Logan"
+					}
+				]
+			}
+		],
+		"attendance": "3018",
+		"venue": "Perry's Crabble Stadium"
+	}
+}
+

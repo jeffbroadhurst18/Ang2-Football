@@ -1,0 +1,190 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 12th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "68",
+				"name": "Wrexham",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "6",
+						"name": "Curtis Tilt"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Kai Edwards"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Leo Smith"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney",
+						"substitution": {
+							"replacedBy": "Rob Evans",
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Hamza Bencherif"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jordan Evans"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Anthony Barry"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Mark Carrington"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Callum Powell"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Shaun Harrad"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Martin Riley",
+						"substitution": {
+							"replacedBy": "Khaellem Bailey-Nichols",
+							"minute": "58"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Khaellem Bailey-Nichols"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Khaellem Bailey-Nichols"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Rob Evans"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Nortei Nortey"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Nortei Nortey"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "226",
+				"name": "Braintree Town",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Michael Cheek (22')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "22",
+						"name": "Sam Beasant"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Oliver Muldoon"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Jerome Okimo"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Jake Goodman"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Sam Matthews",
+						"substitution": {
+							"replacedBy": "Reece Hall-Johnson",
+							"minute": "90"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard",
+						"substitution": {
+							"replacedBy": "Chez Isaac",
+							"minute": "83"
+						},
+						"caution": {
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Harry Lee"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Michael Cheek"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Matt Baxter",
+						"substitution": {
+							"replacedBy": "Jack Midson",
+							"minute": "70"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard",
+						"caution": {
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Ian Gayle"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Midson"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Chez Isaac"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Joe Maybanks"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Reece Hall-Johnson"
+					}
+				]
+			}
+		],
+		"attendance": "3413",
+		"venue": "Racecourse Ground"
+	}
+}
+

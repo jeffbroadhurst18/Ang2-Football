@@ -1,0 +1,26 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 5th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "103",
+				"name": "Forest Green Rovers",
+				"halfTimeScore": "1",
+				"score": "2"
+			},
+			{
+				"side": "away",
+				"no": "94",
+				"name": "Aldershot Town",
+				"halfTimeScore": "0",
+				"score": "1"
+			}
+		],
+		"attendance": "1638"
+	}
+}
+

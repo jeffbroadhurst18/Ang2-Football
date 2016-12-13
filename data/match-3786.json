@@ -1,0 +1,196 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 25th October 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "131",
+				"name": "Southport",
+				"halfTimeScore": "0",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Jamie Allen (pen 48')"
+					},
+					{
+						"goal": "Jamie Allen (90')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "27",
+						"name": "Magnus Norman"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Nolan"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Ryan Higgins"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Jordan Lussey",
+						"substitution": {
+							"replacedBy": "Liam Hynes",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Josh Thompson"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Callum Howe"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Neil Ashton",
+						"caution": {
+							"minute": "22"
+						}
+					},
+					{
+						"shirtNo": "19",
+						"name": "Declan Weeks"
+					},
+					{
+						"shirtNo": "28",
+						"name": "Nathan Ferguson",
+						"substitution": {
+							"replacedBy": "James Caton",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Andrai Jones"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jamie Allen"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Ashley Grimes"
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Gray"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Liam Hynes"
+					},
+					{
+						"shirtNo": "11",
+						"name": "John Cofie"
+					},
+					{
+						"shirtNo": "16",
+						"name": "James Caton"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren",
+						"substitution": {
+							"replacedBy": "Scott Flinders",
+							"minute": "12"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle",
+						"caution": {
+							"minute": "76"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins",
+						"substitution": {
+							"replacedBy": "Callum Rzonca",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry",
+						"caution": {
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski",
+						"substitution": {
+							"replacedBy": "Franklyn Clarke",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Galbraith"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Kaine Felix"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Scott Flinders"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Franklyn Clarke"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Franklyn Clarke"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Callum Rzonca"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Alex Bruton"
+					}
+				]
+			}
+		],
+		"attendance": "856",
+		"venue": "Merseyrail Community Stadium"
+	}
+}
+

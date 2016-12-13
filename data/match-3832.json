@@ -1,0 +1,207 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 22nd November 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "226",
+				"name": "Braintree Town",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Reece Hall-Johnson (3')"
+					},
+					{
+						"goal": "Michael Cheek (68')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "22",
+						"name": "Sam Beasant"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Sean Clohessy"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Jerome Okimo"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Sam Matthews",
+						"substitution": {
+							"replacedBy": "Simeon Akinola",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jon Ashton"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Jake Goodman",
+						"substitution": {
+							"replacedBy": "Chez Isaac",
+							"minute": "13"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Harry Lee",
+						"caution": {
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Oliver Muldoon"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Reece Hall-Johnson",
+						"substitution": {
+							"replacedBy": "Lee Barnard",
+							"minute": "87"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Midson"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Michael Cheek"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Chez Isaac",
+						"caution": {
+							"minute": "84"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Simeon Akinola"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Joe Maybanks"
+					},
+					{
+						"shirtNo": "28",
+						"name": "Daniel Rumens"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "251",
+				"name": "Bromley",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Tobi Sho-Silva (7')"
+					},
+					{
+						"goal": "Lee Minshull (51')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alan Julian"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Daniel Johnson"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Rob Swaine"
+					},
+					{
+						"shirtNo": "9",
+						"name": "George Porter",
+						"caution": {
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Dave Martin"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Holland"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Lee Minshull"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tobi Sho-Silva",
+						"substitution": {
+							"replacedBy": "Adam Cunnington",
+							"minute": "81"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Blair Turgott"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Joe Anderson"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Connor Dymond",
+						"substitution": {
+							"replacedBy": "Jordan Higgs",
+							"minute": "82"
+						},
+						"caution": {
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Ben Chorley"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Adam Cunnington"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jordan Higgs"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Reece Prestedge"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Jordan Wynter"
+					}
+				]
+			}
+		],
+		"attendance": "521",
+		"venue": "Amlin Stadium"
+	}
+}
+

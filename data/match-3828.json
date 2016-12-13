@@ -1,0 +1,194 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 19th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Scott Flinders"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "31",
+						"name": "Charlie Cooper"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly",
+						"caution": {
+							"minute": "79"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick",
+						"substitution": {
+							"replacedBy": "Daniel Nti",
+							"minute": "59"
+						}
+					},
+					{
+						"shirtNo": "32",
+						"name": "Robbie McDaid",
+						"substitution": {
+							"replacedBy": "Callum Rzonca",
+							"minute": "77"
+						},
+						"caution": {
+							"minute": "77"
+						}
+					},
+					{
+						"shirtNo": "33",
+						"name": "Sean Newton"
+					},
+					{
+						"shirtNo": "34",
+						"name": "Adriano Moke",
+						"sendingOff": {
+							"minute": "81"
+						}
+					},
+					{
+						"shirtNo": "35",
+						"name": "Danny Holmes"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Callum Rzonca"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Alex Bruton"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "2",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Oliver Hawkins (28')"
+					},
+					{
+						"goal": "Luke Guttridge (45')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew",
+						"substitution": {
+							"replacedBy": "Paul Benson",
+							"minute": "90"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Luke Guttridge",
+						"caution": {
+							"minute": "73"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Heard",
+						"caution": {
+							"minute": "81"
+						}
+					},
+					{
+						"shirtNo": "25",
+						"name": "Corey Whitely"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Benson"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tyrique Hyde"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Shomari Barnwell"
+					},
+					{
+						"shirtNo": "34",
+						"name": "Scott Mitchell"
+					}
+				]
+			}
+		],
+		"attendance": "2410",
+		"venue": "Bootham Crescent"
+	}
+}
+

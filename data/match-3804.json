@@ -1,0 +1,216 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 29th October 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Daniel Nti (24')"
+					},
+					{
+						"goal": "Danny Galbraith (64')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Scott Flinders"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney",
+						"caution": {
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo",
+						"caution": {
+							"minute": "62"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins",
+						"substitution": {
+							"replacedBy": "Danny Galbraith",
+							"minute": "46"
+						},
+						"caution": {
+							"minute": "15"
+						}
+					},
+					{
+						"shirtNo": "33",
+						"name": "Sean Newton",
+						"caution": {
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Galbraith",
+						"substitution": {
+							"replacedBy": "Kaine Felix",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Galbraith"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Kaine Felix"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Franklyn Clarke"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Alex Bruton"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Alex Bruton"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "154",
+				"name": "Sutton United",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Craig Eastmond (pen 17')"
+					},
+					{
+						"goal": "Jamie Collins (pen 88')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Ross Worner"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Kevin Amankwaah"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Dean Beckwith",
+						"caution": {
+							"minute": "68"
+						},
+						"sendingOff": {
+							"minute": "76"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Adam May",
+						"substitution": {
+							"replacedBy": "Bedsente Gomis",
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "18",
+						"name": "George McLennan",
+						"substitution": {
+							"replacedBy": "Brandon Haunstrup",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jamie Collins"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Ross Stearn"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Craig Eastmond"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Nicky Bailey"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Roarie Deacon",
+						"substitution": {
+							"replacedBy": "Maxime Biamou",
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Dan Fitchett"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Bradley Hudson-Odoi"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Bedsente Gomis",
+						"caution": {
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Craig McAllister"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Maxime Biamou"
+					},
+					{
+						"shirtNo": "28",
+						"name": "Brandon Haunstrup"
+					}
+				]
+			}
+		],
+		"attendance": "2037",
+		"venue": "Bootham Crescent"
+	}
+}
+

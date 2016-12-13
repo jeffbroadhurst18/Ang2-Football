@@ -1,0 +1,182 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 25th October 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Corey Whitely (81')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe",
+						"caution": {
+							"minute": "22"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Sam Ling",
+						"substitution": {
+							"replacedBy": "Scott Heard",
+							"minute": "70"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Corey Whitely"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tyrique Hyde"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Heard"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Shomari Barnwell"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Joe White"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "94",
+				"name": "Aldershot Town",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Jake Cole"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Anthony Straker"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Cheye Alexander",
+						"caution": {
+							"minute": "86"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Bellamy",
+						"substitution": {
+							"replacedBy": "Charlie Walker",
+							"minute": "83"
+						}
+					},
+					{
+						"shirtNo": "22",
+						"name": "Callum Reynolds"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Will Evans"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jake Gallagher"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Idris Kanu",
+						"substitution": {
+							"replacedBy": "Iffy Allen",
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Scott Rendell"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Matt McClure"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Bernard Mensah"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Mark Smith"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Nick Arnold"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Saville"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Charlie Walker"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Iffy Allen"
+					}
+				]
+			}
+		],
+		"attendance": "1371",
+		"venue": "Victoria Road"
+	}
+}
+

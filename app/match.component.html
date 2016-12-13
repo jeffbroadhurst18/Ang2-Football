@@ -1,0 +1,98 @@
+<div *ngIf="team0 && team1">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-11">
+        <div class="row h2 h2-football">
+          <div class="col-md-1"></div>
+          <div class="col-md-8">
+            {{team0.name}} {{team0.score}} {{team1.name}} {{team1.score}}
+          </div>
+          <div class="col-md-3"></div>
+        </div>
+        <div *ngIf="match" class="row h4 h4-football">
+                <div class="col-md-1"></div>
+                <div class="col-md-8">{{match.competition}}</div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row h4 h4-football">
+                <div class="col-md-1"></div>
+                <div class="col-md-8">{{match.date}} {{match.time}} at {{match.venue}}</div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row football-spacer">
+                <div class="col-md-1"></div>
+                <div class="col-md-5"><img [src]="image0" title="{{match.teams[0].name}}" /></div>
+                <div class="col-md-4"><img [src]="image1" title="{{match.teams[1].name}}" /></div>
+                <div class="col-md-2"></div>
+            </div>
+            <div class="row football-spacer">
+                <div class="col-md-1"></div>
+                <div class="col-md-5 football-goal football-text-red football-text-bold"><a href="/team/{{match.teams[0].no}}">{{match.teams[0].name}}</a></div>
+                <div class="col-md-4 football-goal football-text-red football-text-bold"><a href="/team/{{match.teams[1].no}}">{{match.teams[1].name}}</a></div>
+                <div class="col-md-2"></div>
+            </div>
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-5 football-goaltext football-text-red ">
+                    <div class="row" *ngFor="let g of match.teams[0].goals">
+                        <div>{{g.goal}}</div>
+                    </div>
+                </div>
+                <div class="col-sm-4 football-goal football-text-red">
+                    <div class="row" *ngFor="let g of match.teams[1].goals">
+                        <div>{{g.goal}}</div>
+                    </div>
+                </div>
+                <div class="col-sm-2 football-col"></div>
+            </div>
+            <div class="row football-spacer">
+            </div>
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-5">
+                    <table class="football-table table-bordered">
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th *ngIf="match.teams[0].players" class="football-cell"><img src="\data\pictures\yellowCard.jpg" title="Yellow Card" /></th>
+                            <th *ngIf="match.teams[0].players" class="football-cell"><img src="\data\pictures\redCard.jpg" title="Red Card" /></th>
+                            <th *ngIf="match.teams[0].players" class="football-cell">Sub.</th>
+                        </tr>
+                        <tr *ngFor="let p of match.teams[0].players">
+                            <td *ngIf="p.playerType=='football-player'" class="football-cell football-player">{{p.shirtNo}}</td>
+                            <td *ngIf="p.playerType=='football-sub'" class="football-cell football-sub">{{p.shirtNo}}</td>
+                            <td *ngIf="p.playerType=='football-player'" class="football-cell football-player">{{p.name}}</td>
+                            <td *ngIf="p.playerType=='football-sub'" class="football-cell football-sub">{{p.name}}</td>
+                            <td class="football-cell">{{p.caution.minute}}</td>
+                            <td class="football-cell">{{p.sendingOff.minute}}</td>
+                            <td class="football-cell">{{p.substitution.replacedBy}} {{p.substitution.minute}}</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-sm-6">
+                    <table class="football-table table-bordered">
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th *ngIf="match.teams[1].players" class="football-cell"><img src="\data\pictures\yellowCard.jpg" title="Yellow Card" /></th>
+                            <th *ngIf="match.teams[1].players" class="football-cell"><img src="\data\pictures\redCard.jpg" title="Red Card" /></th>
+                            <th *ngIf="match.teams[1].players" class="football-cell">Sub.</th>
+                        </tr>
+                        <tr *ngFor="let p of match.teams[1].players">
+                            <td *ngIf="p.playerType=='football-player'" class="football-cell football-player">{{p.shirtNo}}</td>
+                            <td *ngIf="p.playerType=='football-sub'" class="football-cell football-sub">{{p.shirtNo}}</td>
+                            <td *ngIf="p.playerType=='football-player'" class="football-cell football-player">{{p.name}}</td>
+                            <td *ngIf="p.playerType=='football-sub'" class="football-cell football-sub">{{p.name}}</td>
+                            <td class="football-cell">{{p.caution.minute}}</td>
+                            <td class="football-cell">{{p.sendingOff.minute}}</td>
+                            <td class="football-cell">{{p.substitution.replacedBy}} {{p.substitution.minute}}</td>
+                        </tr>
+                    </table>
+                    <div class="row football-spacer">
+                    </div>
+                </div>
+            </div>
+      </div>
+    </div>
+  </div>
+</div>

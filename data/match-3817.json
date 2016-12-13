@@ -1,0 +1,204 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 19th November 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "94",
+				"name": "Aldershot Town",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Will Evans (69')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Jake Cole"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Cheye Alexander",
+						"caution": {
+							"minute": "36"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Will Evans",
+						"caution": {
+							"minute": "65"
+						}
+					},
+					{
+						"shirtNo": "18",
+						"name": "Dion Conroy",
+						"substitution": {
+							"replacedBy": "Charlie Walker",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "2",
+						"name": "Nick Arnold"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Callum Reynolds",
+						"substitution": {
+							"replacedBy": "Jack Saville",
+							"minute": "58"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Bernard Mensah"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jake Gallagher"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Idris Kanu"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Scott Rendell"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Matt McClure",
+						"substitution": {
+							"replacedBy": "Iffy Allen",
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "25",
+						"name": "Mark Smith"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Saville"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Charlie Walker"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Iffy Allen"
+					},
+					{
+						"shirtNo": "17",
+						"name": "James Kellerman"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "80",
+				"name": "Macclesfield Town",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Chris Holroyd (27')"
+					},
+					{
+						"goal": "Chris Holroyd (49')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Craig Ross"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Andy Halls"
+					},
+					{
+						"shirtNo": "5",
+						"name": "George Pilkington"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Rowe",
+						"substitution": {
+							"replacedBy": "Jack Sampson",
+							"minute": "79"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "David Fitzpatrick"
+					},
+					{
+						"shirtNo": "6",
+						"name": "John McCombe"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Mackreth",
+						"caution": {
+							"minute": "37"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Kingsley James"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Mitch Hancox",
+						"caution": {
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny Whitaker"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Chris Holroyd",
+						"substitution": {
+							"replacedBy": "Richard Brodie",
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "Ryan Boot"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Neill Byrne"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Jack Sampson"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Sam Madeley"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Richard Brodie"
+					}
+				]
+			}
+		],
+		"attendance": "1636",
+		"venue": "The Ebb Stadium At The Recreation Ground"
+	}
+}
+

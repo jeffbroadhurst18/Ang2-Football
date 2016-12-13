@@ -1,0 +1,198 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 29th November 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Callum Rzonca (59')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Sean Newton"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly"
+					},
+					{
+						"shirtNo": "35",
+						"name": "Danny Holmes"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Jake Charles",
+						"substitution": {
+							"replacedBy": "Callum Rzonca",
+							"minute": "52"
+						}
+					},
+					{
+						"shirtNo": "32",
+						"name": "Robbie McDaid",
+						"substitution": {
+							"replacedBy": "Scott Fenwick",
+							"minute": "52"
+						},
+						"caution": {
+							"minute": "45"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick",
+						"caution": {
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Luke Woodland"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Callum Rzonca"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "293",
+				"name": "Guiseley",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Jake Cassidy (85')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "26",
+						"name": "Jonathan Maxted"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Connor Brown"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Rob Atkinson"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Will Hatfield",
+						"substitution": {
+							"replacedBy": "Joel Logan",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "15",
+						"name": "Ashley Palmer"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Danny Lowe"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny East",
+						"substitution": {
+							"replacedBy": "Michael Rankine",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "22",
+						"name": "Alex Purver",
+						"caution": {
+							"minute": "76"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "Simon Walton"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Jordan Preston",
+						"substitution": {
+							"replacedBy": "Adam Boyes",
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "29",
+						"name": "Jake Cassidy"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Daniel Atkinson"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Adam Boyes"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Michael Rankine"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Marcus Williams"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joel Logan"
+					}
+				]
+			}
+		],
+		"attendance": "1907",
+		"venue": "Bootham Crescent"
+	}
+}
+
